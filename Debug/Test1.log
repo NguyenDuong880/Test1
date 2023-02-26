@@ -1,0 +1,2 @@
+﻿  main.cpp
+E:\CHTNhung\LapTrinhNhung\Test1\Test1\main.cpp(17): error C4700: uninitialized local variable 'B' used
